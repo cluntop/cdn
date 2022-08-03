@@ -11,5 +11,5 @@
 # 友链链接
 
 [小朊朋友圈](https://www.xrpyq.com)
-.
+·
 [小轻导航](http://fun.xzwidea.cn)
