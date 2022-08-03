@@ -8,7 +8,7 @@
 
 联系邮箱：cluntop@88.com · QQ邮箱：cluntop@vip.qq.com
 
-# 友链链接
+# 友情链接
 
 [小朊朋友圈](https://www.xrpyq.com)
 ·
