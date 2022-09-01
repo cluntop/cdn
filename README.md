@@ -21,4 +21,4 @@
 [墨云](https://www.inkidc.cn)
 ·
 
-<center><img src="https://count.getloli.com/get/@clun?theme=rule34"/></center>
+<center><img src="https://count.getloli.com/get/@clun?theme=rule34"/>
