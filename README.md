@@ -12,8 +12,6 @@
 
 [雨呢网站监控](https://up.a0s.cc)
 ·
-[小朊朋友圈](https://www.xrpyq.com)
-·
 [旋风视觉](https://newtest.cyclone.vision)
 ·
 [桑帛API](http://api.sangbo520.cn)
