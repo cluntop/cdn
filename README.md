@@ -10,7 +10,7 @@
 
 #### 友情链接
 
-[雨呢网站监控](https://up.a0s.cc)
+[待](./)
 ·
 [旋风视觉](https://newtest.cyclone.vision)
 ·
