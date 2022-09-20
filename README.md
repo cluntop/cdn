@@ -8,10 +8,22 @@
 
 联系邮箱：cluntop@88.com · QQ邮箱：cluntop@vip.qq.com · vx：cluntop · [投食](https://afdian.net/@cluntop)
 
-#### 友情链接
+#### 🏷公告须知
 
-[待](./)
-·
+<details>
+  <summary>【公共账号】</summary>
+
+| 文件夹 | 账号密码 |
+| ---- | -------- |
+| 共享资源(可共用) | 账号密码：admin |
+| 杂物资源(需登录) | 账号密码：root |
+
+</details>
+
+ 其他内容待定
+
+#### 💲友情链接
+
 [旋风视觉](https://newtest.cyclone.vision)
 ·
 [桑帛API](http://api.sangbo520.cn)
