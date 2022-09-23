@@ -26,8 +26,6 @@
 
 [服务状态](https://up.a0s.cc)
 ·
-[旋风视觉](https://newtest.cyclone.vision)
-·
 [桑帛API](http://api.sangbo520.cn)
 ·
 [墨云](https://www.inkidc.cn)
