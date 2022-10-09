@@ -24,11 +24,9 @@
 
 #### 💲友情链接
 
-[服务状态](https://up.a0s.cc)
+[雨呢主页](https://clun.top)
 ·
 [雨呢导航](https://dh.clun.top)
 ·
-[桑帛API](http://api.sangbo520.cn)
-·
-[墨云](https://www.inkidc.cn)
+[桑帛API](http://api.5yzs.cn)
 ·
