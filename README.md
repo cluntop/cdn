@@ -25,8 +25,3 @@
 #### 💲友情链接
 
 [雨呢主页](https://clun.top)
-·
-[雨呢导航](https://dh.clun.top)
-·
-[桑帛API](http://api.5yzs.cn)
-·
