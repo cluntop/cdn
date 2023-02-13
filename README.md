@@ -24,4 +24,5 @@
 #### 💲友情链接
 
 [雨呢导航网](https://www.clun.top)
+·
 [疯子社官网](https://www.clun.top/fzs)
