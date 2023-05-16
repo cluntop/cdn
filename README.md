@@ -1,15 +1,6 @@
 #### 🏷公告须知
 
 <details>
-  <summary>【公共账号】</summary>
-
-| 文件夹 | 账号密码 |
-| ---- | -------- |
-| 共享资源 | 账号/密码：admin |
-
-</details>
-
-<details>
 <summary>【免责声明】</summary>
 
 - 本盘所上传的一切资源仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。
@@ -19,6 +10,15 @@
 - 注：本盘所有资源均来自网络和用户转载，版权归原作者和公司所有，如果有侵犯到您的权益，请第一时间 与我联系，我们将配合处理！
 
 联系邮箱：q@clun.top · TG：cluntop · VX：cluntop · [投食](https://afdian.net/@cluntop)
+</details>
+
+<details>
+  <summary>【公共账号】</summary>
+
+| 文件夹 | 账号密码 |
+| ---- | -------- |
+| 共享资源 | 账号/密码：admin |
+
 </details>
 
  - 其他内容待定
