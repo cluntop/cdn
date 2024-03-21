@@ -13,6 +13,22 @@
 
 </details>
 
+<details>
+<summary>WebDAV</summary>
+
+| WebDAV | 配置 |
+| - | - |
+| 地址 | pan.clun.top |
+| 路径 | /dav |
+| 协议 | https |
+| 用户名 | clun |
+| 密码 | clun |
+| 端口 | 443 |
+
+自建小雅：[an.clun.top](//an.clun.top) 
+
+</details>
+
 #### 交流群：[频道](//t.me/clun_tz) · [群组](//t.me/clun_top)
 
 #### 联系方式: Mail：[clun@duck.com](mailto:clun@duck.com) · TG：[@cluntop](//t.me/cluntop) · [TG🤖](//t.me/clun_bot)
