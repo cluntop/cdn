@@ -19,24 +19,25 @@
     <meta name="description" content="雨呢网盘 - 疯子社网盘.">
     <meta name="keywords" content="雨呢网盘 - 疯子社网盘 - 雨呢网盘,聚合大全.">
 
-    <script>
-        $(document).ready(function () {
-            var t1 = performance.now();
-            if (typeof t1 != "undefined") { document.getElementById("time").innerHTML = " 页面加载耗时 " + Math.round(t1) + " 毫秒 "; }
-            $.get("/cdn-cgi/trace", function (data) {
-                sip = data.match(/(ip=?)(\S*)/)[2];
-                str = data.match(/(colo=?)(\S*)/)[2];
-                loc = data.match(/(loc=?)(\S*)/)[2];
-                sts = data.match(/(http==?)(\S*)/)[2];
-                tls = data.match(/(tls==?)(\S*)/)[2];
-                $("#result").append("节点 IP：" + sip);
-                $("#result").append("节点:" + str);
-                $("#result").append("\n访客:" + loc);
-                $("#result").append("\n" + sts);
-                $("#result").append("\n加密:" + tls);
-            });
-        });
-    </script>
+    <script type="text/javascript" src="https://m.lpv4.cn:189/api/cip.php?code=js"></script>
+
+<script>
+$(document).ready(function(){
+var t1=performance.now();
+if(typeof t1!="undefined"){ document.getElementById("time").innerHTML = " 页面加载耗时 "+ Math.round(t1) +" 毫秒 "; }
+$.get("/cdn-cgi/trace",function(data){
+sip = data.match(/(ip=?)(\S*)/)[2];  
+str = data.match(/(colo=?)(\S*)/)[2];
+loc = data.match(/(loc=?)(\S*)/)[2];
+sts = data.match(/(http==?)(\S*)/)[2];
+tls = data.match(/(tls==?)(\S*)/)[2];
+$("#result").append("节点 IP："+sip);
+$("#result").append("<p></p>节点:"+str);
+$("#result").append("\n访客:"+loc);
+$("#result").append("\n"+sts);
+$("#result").append("\n加密:"+tls);
+});});
+</script>
 
     <script>
         $.get("/cdn-cgi/trace",
@@ -64,8 +65,8 @@
     <div id="root"><span style="font-weight: bolder;font-size: 16px;">~<a href="/" target="_blank"
                 style="color: red;text-decoration: underline;">~</a></span>
 
-        <div id="result"></div>
-        <div id="time"></div>
+    <script>ip()</script>
+    <div id="result"></div><div id="time"></div>
 
 </body>
 
