@@ -36,6 +36,27 @@
 | 密码 | clun |
 | 端口 | 443 |
 
+## **WebDAV 配置**
+
+| 名称 | 值 |
+| - | - |
+| Url | https://pan.clun.top/dav |
+| Host | pan.clun.top |
+| 路径 | /dav |
+| 协议 | https |
+| 端口 | 443 |
+| 用户名/密码 | clun |
+
+| 名称 | 值 |
+| - | - |
+| Url | https://an.clun.top/dav |
+| Host | an.clun.top |
+| 路径 | /dav |
+| 协议 | https |
+| 端口 | 443 |
+| 用户名 | guest |
+| 密码 | guest_Api789 |
+
 自建小雅：[an.clun.top](//an.clun.top) 
 
 </details>
