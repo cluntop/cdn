@@ -11,8 +11,8 @@
 
 #### 已转移至 [GitHub](https://github.com/cluntop/cluntop.github.io)
 
-#### 可直接访问查看 [clun.top](//clun.top)
+#### 可直接访问查看 [clun.top](https://clun.top)
 
-#### 交流群：[频道](//t.me/clun_tz) · [群组](//t.me/clun_top) · AList
+#### 交流群：[频道](https://t.me/clun_tz) · [群组](https://t.me/clun_top) · AList
 
-#### 联系方式: Mail：[clun@duck.com](mailto:clun@duck.com) · TG：[@cluntop](//t.me/cluntop) · [TG Bot](//t.me/clun_bot)
+#### 联系方式: Mail：[clun@duck.com](mailto:clun@duck.com) · TG：[@cluntop](https://t.me/cluntop) · [TG Bot](https://t.me/clun_bot)
