@@ -9,7 +9,7 @@
 <meta name="description" content="雨呢网盘 - 疯子社网盘.">
 <meta name="keywords" content="雨呢网盘 - 疯子社网盘 - 雨呢网盘,聚合大全,资源大全.">
 
-#### 已转移至 [GitHub](//github.com/cluntop/cluntop.github.io)
+#### 已转移至 [GitHub](https://github.com/cluntop/cluntop.github.io)
 
 #### 可直接访问查看 [clun.top](//clun.top)
 
